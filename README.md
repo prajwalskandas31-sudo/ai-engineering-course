@@ -6,15 +6,15 @@ Each module has three parts that link to each other:
 
 | | Where | What you get |
 |---|---|---|
-| ▶️ | **YouTube:** [Tech with Prajwal](https://www.youtube.com/@PrajwalSkandaTeaches) | Class recordings and short explainer videos |
-| 📒 | **Notion:** [Course home](NOTION_HOME_LINK) | Study notes, summaries and self-check questions |
+| ▶️ | **YouTube:** [Tech with Prajwal](https://www.youtube.com/@PrajwalSkandaTeaches) · [Full course playlist](https://www.youtube.com/playlist?list=PLMZ1uFxLW3VY) | Class recordings and short explainer videos |
+| 📒 | **Notion:** [Course home](https://chipped-willow-4a2.notion.site/AI-Engineering-Course-Tech-with-Prajwal-4056f1ed006e819e88c5c3d15d1b2e0c) | Study notes, summaries and self-check questions |
 | 💻 | **GitHub:** this repo | Slides, PDFs, notebooks and code |
 
 ## Modules
 
 | # | Module | Videos | Notes | Materials |
 |---|---|---|---|---|
-| 1 | Introduction to Artificial Intelligence | [Playlist](M1_PLAYLIST_LINK) | [Notion](NOTION_M1_LINK) | [module-01-intro-to-ai](module-01-intro-to-ai) |
+| 1 | Introduction to Artificial Intelligence | [Playlist](https://www.youtube.com/playlist?list=PLREjlGLKLQ-A) | [Notion](https://chipped-willow-4a2.notion.site/4056f1ed006e817088e6ee1869c7c576) | [module-01-intro-to-ai](module-01-intro-to-ai) |
 | 2 | Python Programming for AI | Coming soon | | |
 | 3 | Mathematics for AI | Coming soon | | |
 | 4 | Data Preprocessing | Coming soon | | |
