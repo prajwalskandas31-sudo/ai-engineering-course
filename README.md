@@ -18,7 +18,7 @@ Each module has three parts that link to each other:
 | 2 | Python Programming for AI | Coming soon | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) | [module-02-python-for-ai](module-02-python-for-ai) |
 | 3 | Mathematics for AI | [Playlist](https://www.youtube.com/playlist?list=PLA_tEeKDxyfU) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e814782dddd9efb5bdaeb) | [module-03-math-for-ai](module-03-math-for-ai) |
 | 4 | Data Preprocessing | [Playlist](https://www.youtube.com/playlist?list=PLalpeLmg2joU) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e813891daf5bf13678b93) | [module-04-data-preprocessing](module-04-data-preprocessing) |
-| 5 | Machine Learning Fundamentals | Coming soon | | |
+| 5 | Machine Learning Fundamentals | [Playlist](https://www.youtube.com/playlist?list=PLL8oIdsEel2Y) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e811d9770eb5c592b078f) | [module-05-ml-fundamentals](module-05-ml-fundamentals) |
 | 6 | Supervised Learning Algorithms | Coming soon | | |
 | 7 | Unsupervised Learning Algorithms | Coming soon | | |
 | 8 | Deep Learning Basics | Coming soon | | |
