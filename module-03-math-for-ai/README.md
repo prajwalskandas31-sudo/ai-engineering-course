@@ -1,6 +1,6 @@
 # Module 3: Mathematics for AI
 
-← [Module 2](../module-02-python-for-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e814782dddd9efb5bdaeb) · ▶️ [Module 3 playlist](https://www.youtube.com/playlist?list=PLA_tEeKDxyfU) · Next: Module 4 (coming soon)
+← [Module 2](../module-02-python-for-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e814782dddd9efb5bdaeb) · ▶️ [Module 3 playlist](https://www.youtube.com/playlist?list=PLA_tEeKDxyfU) · Next: [Module 4](../module-04-data-preprocessing)
 
 ## What you'll learn
 
