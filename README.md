@@ -16,7 +16,7 @@ Each module has three parts that link to each other:
 |---|---|---|---|---|
 | 1 | Introduction to Artificial Intelligence | [Playlist](https://www.youtube.com/playlist?list=PLREjlGLKLQ-A) | [Notion](https://chipped-willow-4a2.notion.site/4056f1ed006e817088e6ee1869c7c576) | [module-01-intro-to-ai](module-01-intro-to-ai) |
 | 2 | Python Programming for AI | Coming soon | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) | [module-02-python-for-ai](module-02-python-for-ai) |
-| 3 | Mathematics for AI | Coming soon | | |
+| 3 | Mathematics for AI | [Playlist](https://www.youtube.com/playlist?list=PLA_tEeKDxyfU) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e814782dddd9efb5bdaeb) | [module-03-math-for-ai](module-03-math-for-ai) |
 | 4 | Data Preprocessing | Coming soon | | |
 | 5 | Machine Learning Fundamentals | Coming soon | | |
 | 6 | Supervised Learning Algorithms | Coming soon | | |
