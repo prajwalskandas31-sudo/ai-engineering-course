@@ -1,6 +1,6 @@
 # Module 4: Data Preprocessing
 
-← [Module 3](../module-03-math-for-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e813891daf5bf13678b93) · ▶️ [Module 4 playlist](https://www.youtube.com/playlist?list=PLalpeLmg2joU) · Next: Module 5 (coming soon)
+← [Module 3](../module-03-math-for-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e813891daf5bf13678b93) · ▶️ [Module 4 playlist](https://www.youtube.com/playlist?list=PLalpeLmg2joU) · Next: [Module 5](../module-05-ml-fundamentals)
 
 ## What you'll learn
 
