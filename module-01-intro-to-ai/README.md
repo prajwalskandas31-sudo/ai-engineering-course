@@ -28,4 +28,4 @@
 
 This module is concept-only, so there's no code. Hands-on code starts in Module 2 (Python for AI).
 
-**Next:** Module 2: Python Programming for AI (coming soon)
+**Next:** [Module 2: Python Programming for AI](../module-02-python-for-ai)
