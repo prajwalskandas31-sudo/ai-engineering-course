@@ -1,6 +1,6 @@
 # Module 2: Python Programming for AI
 
-← [Module 1](../module-01-intro-to-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) · Next: Module 3 (coming soon)
+← [Module 1](../module-01-intro-to-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) · Next: [Module 3](../module-03-math-for-ai)
 
 ## What you'll learn
 
