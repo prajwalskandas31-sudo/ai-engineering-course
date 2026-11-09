@@ -1,6 +1,6 @@
 # Module 5: Machine Learning Fundamentals
 
-← [Module 4](../module-04-data-preprocessing) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e811d9770eb5c592b078f) · ▶️ [Module 5 playlist](https://www.youtube.com/playlist?list=PLL8oIdsEel2Y) · Next: Module 6 (coming soon)
+← [Module 4](../module-04-data-preprocessing) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e811d9770eb5c592b078f) · ▶️ [Module 5 playlist](https://www.youtube.com/playlist?list=PLL8oIdsEel2Y) · Next: [Module 6](../module-06-supervised-learning)
 
 ## What you'll learn
 
