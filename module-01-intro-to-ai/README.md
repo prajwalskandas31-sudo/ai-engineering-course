@@ -2,7 +2,7 @@
 
 ← [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4056f1ed006e817088e6ee1869c7c576) · ▶️ [Module 1 playlist](https://www.youtube.com/playlist?list=PLREjlGLKLQ-A)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-01-intro-to-ai/Module_1_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_1_Lab.ipynb](Module_1_Lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-01-intro-to-ai/Module_1_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_1_Lab.ipynb](Module_1_Lab.ipynb) · 📄 Step-by-step [code walkthrough with real outputs (PDF)](Module_1_Code_Walkthrough.pdf)
 
 ## What you'll learn
 
