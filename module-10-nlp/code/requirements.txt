@@ -1,0 +1,6 @@
+scikit-learn
+numpy
+matplotlib
+# Parts 2 and 5 (stemming, lemmatization, VADER, TextBlob):
+nltk
+textblob
