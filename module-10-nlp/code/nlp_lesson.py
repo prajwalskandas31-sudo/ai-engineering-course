@@ -362,7 +362,7 @@ def plot_all(tfidf, T, words, lean, scores, log):
     im = ax.imshow(T.toarray(), cmap="Purples", aspect="auto")
     ax.set_xticks(range(len(vocab))); ax.set_xticklabels(vocab, rotation=60, ha="right", fontsize=9)
     ax.set_yticks(range(len(DOCS))); ax.set_yticklabels([f"Doc {i + 1}" for i in range(len(DOCS))])
-    ax.set_title("A) TF-IDF weights: shared 'data' scores low", fontsize=13, fontweight="bold")
+    ax.set_title("A) TF-IDF weight of each word in each document", fontsize=13, fontweight="bold")
     fig.colorbar(im, ax=ax, fraction=0.03)
 
     ax = axes[0, 1]
@@ -389,8 +389,12 @@ def plot_all(tfidf, T, words, lean, scores, log):
 
     ax = axes[1, 1]
     asked = [(q, s) for q, s in log if s is not None]
-    ax.barh([q[:30] for q, _ in asked][::-1], [s for _, s in asked][::-1],
-            color=["#d64545" if s == 0 else "#8e44ad" for _, s in asked][::-1])
+    labels = [q if len(q) <= 34 else q[:32] + "..." for q, _ in asked][::-1]
+    values = [s for _, s in asked][::-1]
+    ax.barh(labels, values, color=["#d64545" if s == 0 else "#8e44ad" for s in values])
+    for y, s in enumerate(values):
+        ax.text(s + 0.01, y, f"{s:.2f}" + ("  (no match: fallback reply)" if s == 0 else ""),
+                va="center", fontsize=10, color="#d64545" if s == 0 else "black")
     ax.set_xlim(0, 1)
     ax.set_title("D) Chatbot: best cosine similarity per question", fontsize=13, fontweight="bold")
     ax.set_xlabel("cosine similarity (0 = fallback answer)")
