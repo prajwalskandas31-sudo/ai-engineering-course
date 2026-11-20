@@ -377,10 +377,11 @@ def plot_all(histories, keras_out, X_test, y_test, numpy_net):
     ax = axes[1, 0]
     if keras_out is not None:
         h = keras_out["history"]
-        ax.plot(h["accuracy"], label="Training accuracy", linewidth=2.5)
-        ax.plot(h["val_accuracy"], label="Validation accuracy", linewidth=2.5)
-        best = int(np.argmin(h["val_loss"]))
-        ax.axvline(best, color="#d62728", linestyle="--", label=f"Best epoch kept ({best + 1})")
+        epochs = range(1, len(h["accuracy"]) + 1)
+        ax.plot(epochs, h["accuracy"], label="Training accuracy (with dropout on)", linewidth=2.5)
+        ax.plot(epochs, h["val_accuracy"], label="Validation accuracy", linewidth=2.5)
+        best = int(np.argmin(h["val_loss"])) + 1
+        ax.axvline(best, color="#d62728", linestyle="--", label=f"Best epoch kept ({best})")
         ax.set_title("C) Keras dense network with early stopping", fontsize=14, fontweight="bold")
         ax.set_xlabel("Epoch"); ax.set_ylabel("Accuracy"); ax.legend(loc="lower right")
     else:
@@ -397,7 +398,7 @@ def plot_all(histories, keras_out, X_test, y_test, numpy_net):
     right = np.where(preds == y_test)[0]
     show = list(right[:12]) + list(wrong[:4])          # mostly right, a few mistakes
     for k, i in enumerate(show[:16]):
-        sub = ax.inset_axes([(k % 4) * 0.25 + 0.02, 0.75 - (k // 4) * 0.25, 0.21, 0.21])
+        sub = ax.inset_axes([(k % 4) * 0.25 + 0.03, 0.76 - (k // 4) * 0.25, 0.19, 0.19])
         sub.imshow(X_test[i].reshape(8, 8), cmap="gray_r")
         ok = preds[i] == y_test[i]
         sub.set_title(f"pred {preds[i]}" + ("" if ok else f" (true {y_test[i]})"),
