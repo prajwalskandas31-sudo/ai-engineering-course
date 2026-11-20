@@ -2,6 +2,8 @@
 
 ← [Module 3](../module-03-math-for-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e813891daf5bf13678b93) · ▶️ [Module 4 playlist](https://www.youtube.com/playlist?list=PLalpeLmg2joU) · Next: [Module 5](../module-05-ml-fundamentals)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-04-data-preprocessing/Module_4_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_4_Lab.ipynb](Module_4_Lab.ipynb)
+
 ## What you'll learn
 
 - Inspecting raw data with `info()`, `describe()` and `isnull()`, and the data-type trap
