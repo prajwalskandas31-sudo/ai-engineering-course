@@ -1,6 +1,6 @@
 # Module 7: Unsupervised Learning Algorithms
 
-← [Module 6](../module-06-supervised-learning) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e8106a164fa3c0390fa5b) · ▶️ [Module 7 playlist](https://www.youtube.com/playlist?list=PLEYTSV2T81_0) · Next: Module 8 (coming soon)
+← [Module 6](../module-06-supervised-learning) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e8106a164fa3c0390fa5b) · ▶️ [Module 7 playlist](https://www.youtube.com/playlist?list=PLEYTSV2T81_0) · Next: [Module 8](../module-08-deep-learning)
 
 ## What you'll learn
 
