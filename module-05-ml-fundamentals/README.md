@@ -2,7 +2,7 @@
 
 ← [Module 4](../module-04-data-preprocessing) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e811d9770eb5c592b078f) · ▶️ [Module 5 playlist](https://www.youtube.com/playlist?list=PLL8oIdsEel2Y) · Next: [Module 6](../module-06-supervised-learning)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-05-ml-fundamentals/Module_5_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_5_Lab.ipynb](Module_5_Lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-05-ml-fundamentals/Module_5_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_5_Lab.ipynb](Module_5_Lab.ipynb) · 📄 Step-by-step [code walkthrough with real outputs (PDF)](Module_5_Code_Walkthrough.pdf)
 
 ## What you'll learn
 
