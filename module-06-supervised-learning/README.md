@@ -1,6 +1,6 @@
 # Module 6: Supervised Learning Algorithms
 
-← [Module 5](../module-05-ml-fundamentals) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4136f1ed006e81339b2ff4a1fda3bd46) · ▶️ [Module 6 playlist](https://www.youtube.com/playlist?list=PLIX9fLOWQUKg) · Next: Module 7 (coming soon)
+← [Module 5](../module-05-ml-fundamentals) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4136f1ed006e81339b2ff4a1fda3bd46) · ▶️ [Module 6 playlist](https://www.youtube.com/playlist?list=PLIX9fLOWQUKg) · Next: [Module 7](../module-07-unsupervised-learning)
 
 ## What you'll learn
 
