@@ -20,7 +20,7 @@ Each module has three parts that link to each other:
 | 4 | Data Preprocessing | [Playlist](https://www.youtube.com/playlist?list=PLalpeLmg2joU) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e813891daf5bf13678b93) | [module-04-data-preprocessing](module-04-data-preprocessing) |
 | 5 | Machine Learning Fundamentals | [Playlist](https://www.youtube.com/playlist?list=PLL8oIdsEel2Y) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e811d9770eb5c592b078f) | [module-05-ml-fundamentals](module-05-ml-fundamentals) |
 | 6 | Supervised Learning Algorithms | [Playlist](https://www.youtube.com/playlist?list=PLIX9fLOWQUKg) | [Notion](https://chipped-willow-4a2.notion.site/4136f1ed006e81339b2ff4a1fda3bd46) | [module-06-supervised-learning](module-06-supervised-learning) |
-| 7 | Unsupervised Learning Algorithms | Coming soon | | |
+| 7 | Unsupervised Learning Algorithms | [Playlist](https://www.youtube.com/playlist?list=PLEYTSV2T81_0) | [Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e8106a164fa3c0390fa5b) | [module-07-unsupervised-learning](module-07-unsupervised-learning) |
 | 8 | Deep Learning Basics | Coming soon | | |
 | 9 | Computer Vision | Coming soon | | |
 | 10 | Natural Language Processing (NLP) | Coming soon | | |
