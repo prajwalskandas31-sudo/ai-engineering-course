@@ -2,7 +2,7 @@
 
 ← [Module 6](../module-06-supervised-learning) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e8106a164fa3c0390fa5b) · ▶️ [Module 7 playlist](https://www.youtube.com/playlist?list=PLEYTSV2T81_0) · Next: [Module 8](../module-08-deep-learning)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-07-unsupervised-learning/Module_7_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_7_Lab.ipynb](Module_7_Lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-07-unsupervised-learning/Module_7_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_7_Lab.ipynb](Module_7_Lab.ipynb) · 📄 Step-by-step [code walkthrough with real outputs (PDF)](Module_7_Code_Walkthrough.pdf)
 
 ## What you'll learn
 
