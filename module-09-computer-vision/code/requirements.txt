@@ -1,0 +1,7 @@
+opencv-python
+numpy
+matplotlib
+scikit-image
+scikit-learn
+# optional, for Part 5 (YOLO):
+# ultralytics
