@@ -2,6 +2,8 @@
 
 ← [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4056f1ed006e817088e6ee1869c7c576) · ▶️ [Module 1 playlist](https://www.youtube.com/playlist?list=PLREjlGLKLQ-A)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-01-intro-to-ai/Module_1_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_1_Lab.ipynb](Module_1_Lab.ipynb)
+
 ## What you'll learn
 
 - What AI is, and how it differs from human intelligence
@@ -27,6 +29,6 @@
 | [notes/Module_1_Student_Notes.pdf](notes/Module_1_Student_Notes.pdf) | Detailed student study notes |
 | [slides/Introduction_to_AI_Infographic.png](slides/Introduction_to_AI_Infographic.png) | One-page infographic: the module at a glance |
 
-This module is concept-only, so there's no code. Hands-on code starts in Module 2 (Python for AI).
+This module is mostly concepts. One small demo, [code/ai_basics_demo.py](code/ai_basics_demo.py), compares hand-written spam rules with a model that learns its own rules, and builds a tiny next-word predictor (the idea behind ChatGPT, in miniature). Run it in Colab with the button above, or locally with `pip install scikit-learn` and `python code/ai_basics_demo.py`.
 
 **Next:** [Module 2: Python Programming for AI](../module-02-python-for-ai)
