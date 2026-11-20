@@ -45,3 +45,4 @@ python3 04_pandas_demo.py      # then 01, 02, 03
 | [code/](code) | 4 demo scripts, 4 explanation docs, run guide, `requirements.txt` |
 | [outputs/](outputs) | What the scripts produce: 2 dashboards and a CSV |
 | [notes/Module_2_Student_Guide.pdf](notes/Module_2_Student_Guide.pdf) | Student study guide: Python basics to AI libraries |
+| [slides/Python_for_AI_Infographic.png](slides/Python_for_AI_Infographic.png) | One-page infographic: the module at a glance |
