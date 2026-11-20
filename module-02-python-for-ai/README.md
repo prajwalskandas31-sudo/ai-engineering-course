@@ -2,6 +2,8 @@
 
 ← [Module 1](../module-01-intro-to-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) · Next: [Module 3](../module-03-math-for-ai)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-02-python-for-ai/Module_2_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_2_Lab.ipynb](Module_2_Lab.ipynb)
+
 ## What you'll learn
 
 - Variables, data types, operators, conditions and loops
