@@ -20,6 +20,7 @@
 |---|---|---|---|
 | 1 | [Deep Learning Anatomy](https://youtu.be/CFeDV1rHRjI) | Explainer | 11:11 |
 | 2 | [The Architecture of Universal Approximation](https://youtu.be/BZVVAqg89G8) | Explainer | 7:47 |
+| 3 | [Deep Learning, Computer Vision & NLP: Live Class (Modules 8–10)](https://youtu.be/pSryVIuYQl8) | Class Recording | 2:21:17 |
 
 ## Hands-on lab
 
