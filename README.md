@@ -23,7 +23,7 @@ Each module has three parts that link to each other:
 | 7 | Unsupervised Learning Algorithms | [Playlist](https://www.youtube.com/playlist?list=PLEYTSV2T81_0) | [Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e8106a164fa3c0390fa5b) | [module-07-unsupervised-learning](module-07-unsupervised-learning) |
 | 8 | Deep Learning Basics | [Playlist](https://www.youtube.com/playlist?list=PLKeCiuH5RiLc) | [Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e81989a20f0e1404dcdcf) | [module-08-deep-learning](module-08-deep-learning) |
 | 9 | Computer Vision | [Playlist](https://www.youtube.com/playlist?list=PLI87agNzVTHQ) | [Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e818dbad4cc2fcbc0775e) | [module-09-computer-vision](module-09-computer-vision) |
-| 10 | Natural Language Processing (NLP) | Coming soon | | |
+| 10 | Natural Language Processing (NLP) | [Playlist](https://www.youtube.com/playlist?list=PLCpq4dWJGmXA) | [Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e8190a4b8f73406ae9a07) | [module-10-nlp](module-10-nlp) |
 
 ## How to use this repo
 
