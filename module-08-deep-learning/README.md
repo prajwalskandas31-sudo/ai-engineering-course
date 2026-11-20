@@ -49,5 +49,6 @@ No install? The lab guide shows how to run it in Google Colab, where TensorFlow 
 | [code/README.md](code/README.md) | Lab guide with results |
 | [notes/Module_8_Deep_Learning_Study_Notes.pdf](notes/Module_8_Deep_Learning_Study_Notes.pdf) | Study notes |
 | [slides/The_Deep_Learning_Schematic.pdf](slides/The_Deep_Learning_Schematic.pdf) | Visual deck: The Deep Learning Schematic |
+| [slides/Deep_Learning_Basics_Infographic.png](slides/Deep_Learning_Basics_Infographic.png) | One-page infographic: the module at a glance |
 
 > **Note on the notes:** in the optimiser table of the study notes PDF, the gradient symbol (∇) had dropped out of the SGD and momentum formulas. Both now read α·∇L.
