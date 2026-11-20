@@ -39,5 +39,6 @@ python ml_practical_lesson.py
 | [notes/Module_5_ML_Fundamentals_Study_Guide.pdf](notes/Module_5_ML_Fundamentals_Study_Guide.pdf) | Study guide |
 | [slides/Machine_Learning_Essentials.pdf](slides/Machine_Learning_Essentials.pdf) | Visual deck: ML essentials |
 | [slides/Machine_Learning_Evaluation_Blueprint.pdf](slides/Machine_Learning_Evaluation_Blueprint.pdf) | Visual deck: the evaluation blueprint |
+| [slides/Machine_Learning_Fundamentals_Infographic.png](slides/Machine_Learning_Fundamentals_Infographic.png) | One-page infographic: the module at a glance |
 
 > **Note on the lab:** the original script printed fixed conclusions ("error explodes on test data" for degree 10). In this version the conclusions are computed from the actual numbers, and the features are scaled before the polynomial expansion so degree 10 fits properly. On this small 10-sample test split, degree 10 scores about the same as degree 2 on the test set, which is why model choice is made with cross-validation.
