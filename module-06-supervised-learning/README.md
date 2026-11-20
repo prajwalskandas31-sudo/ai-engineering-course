@@ -2,6 +2,8 @@
 
 ← [Module 5](../module-05-ml-fundamentals) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4136f1ed006e81339b2ff4a1fda3bd46) · ▶️ [Module 6 playlist](https://www.youtube.com/playlist?list=PLIX9fLOWQUKg) · Next: [Module 7](../module-07-unsupervised-learning)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-06-supervised-learning/Module_6_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_6_Lab.ipynb](Module_6_Lab.ipynb)
+
 ## What you'll learn
 
 - Linear regression: least squares, residuals and R²
