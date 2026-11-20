@@ -2,7 +2,7 @@
 
 ← [Module 2](../module-02-python-for-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e814782dddd9efb5bdaeb) · ▶️ [Module 3 playlist](https://www.youtube.com/playlist?list=PLA_tEeKDxyfU) · Next: [Module 4](../module-04-data-preprocessing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-03-math-for-ai/Module_3_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_3_Lab.ipynb](Module_3_Lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-03-math-for-ai/Module_3_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_3_Lab.ipynb](Module_3_Lab.ipynb) · 📄 Step-by-step [code walkthrough with real outputs (PDF)](Module_3_Code_Walkthrough.pdf)
 
 ## What you'll learn
 
