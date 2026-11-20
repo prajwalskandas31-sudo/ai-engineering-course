@@ -1,6 +1,6 @@
 # Module 9: Computer Vision
 
-← [Module 8](../module-08-deep-learning) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e818dbad4cc2fcbc0775e) · ▶️ [Module 9 playlist](https://www.youtube.com/playlist?list=PLI87agNzVTHQ) · Next: Module 10 (coming soon)
+← [Module 8](../module-08-deep-learning) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/41e6f1ed006e818dbad4cc2fcbc0775e) · ▶️ [Module 9 playlist](https://www.youtube.com/playlist?list=PLI87agNzVTHQ) · Next: [Module 10](../module-10-nlp) →
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-09-computer-vision/Module_9_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_9_Lab.ipynb](Module_9_Lab.ipynb) · 📄 Step-by-step [code walkthrough with real outputs (PDF)](Module_9_Code_Walkthrough.pdf)
 
