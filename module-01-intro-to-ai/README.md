@@ -25,6 +25,7 @@
 | [slides/Module_1_Introduction_to_AI.pptx](slides/Module_1_Introduction_to_AI.pptx) | Lecture slides |
 | [slides/AI_Decoded_Visual_Deck.pdf](slides/AI_Decoded_Visual_Deck.pdf) | Visual deck: AI from magic to mechanics |
 | [notes/Module_1_Student_Notes.pdf](notes/Module_1_Student_Notes.pdf) | Detailed student study notes |
+| [slides/Introduction_to_AI_Infographic.png](slides/Introduction_to_AI_Infographic.png) | One-page infographic: the module at a glance |
 
 This module is concept-only, so there's no code. Hands-on code starts in Module 2 (Python for AI).
 
