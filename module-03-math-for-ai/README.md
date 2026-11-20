@@ -36,5 +36,6 @@ python3 math_for_ai_examples.py
 | [slides/AI_Math_Foundations_Visual_Deck.pdf](slides/AI_Math_Foundations_Visual_Deck.pdf) | Visual study deck |
 | [notes/Module_3_Student_Notes.pdf](notes/Module_3_Student_Notes.pdf) | Student study and practice guide |
 | [code/math_for_ai_examples.py](code/math_for_ai_examples.py) | All worked examples in Python + NumPy |
+| [slides/Mathematics_for_AI_Infographic.png](slides/Mathematics_for_AI_Infographic.png) | One-page infographic: the module at a glance |
 
 > **Correction:** in the salary example (4 × ₹30,000 + 1 × ₹4,50,000), the mean is **₹1,14,000**. The visual deck rounds this to ₹1.13L; the correct figure is ₹1.14L.
