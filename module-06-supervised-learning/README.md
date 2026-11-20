@@ -49,5 +49,6 @@ python supervised_learning_lesson.py
 | [code/README.md](code/README.md) | Lab guide |
 | [slides/The_Machine_Learning_Blueprint.pdf](slides/The_Machine_Learning_Blueprint.pdf) | Visual deck: The Machine Learning Field Guide |
 | [slides/The_Predictive_Blueprint.pdf](slides/The_Predictive_Blueprint.pdf) | Visual deck: Structural Engineering for Data |
+| [slides/Supervised_Learning_Infographic.png](slides/Supervised_Learning_Infographic.png) | One-page infographic: the module at a glance |
 
 > **Note on the lab:** the original script reported accuracy only. With about 1 in 5 customers churning, a model that always predicts "retained" already scores 78%, so this version also prints a baseline, churn recall and F1. A few comments were corrected to match the code. See the lab guide for details.
