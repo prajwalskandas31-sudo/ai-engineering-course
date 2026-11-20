@@ -37,5 +37,6 @@ python module4_practical_lab.py
 | [code/README.md](code/README.md) | Lab guide |
 | [notes/Module_4_Preprocessing_Notes.pdf](notes/Module_4_Preprocessing_Notes.pdf) | Full 24-page study guide |
 | [slides/The_Data_Refinery_Visual_Deck.pdf](slides/The_Data_Refinery_Visual_Deck.pdf) | Visual study deck |
+| [slides/Data_Preprocessing_Infographic.png](slides/Data_Preprocessing_Infographic.png) | One-page infographic: the module at a glance |
 
 > **Notes on the PDF:** (1) Standardization is described as "highly robust to outliers". It is less fragile than min-max scaling, but the mean and SD are still pulled by outliers; use `RobustScaler` or cap outliers first. (2) In pandas 3, `df['col'].fillna(..., inplace=True)` no longer updates `df` and `fillna(method='ffill')` raises an error. Use `df['col'] = df['col'].fillna(...)` and `.ffill()` instead. The Notion notes use the updated code.
