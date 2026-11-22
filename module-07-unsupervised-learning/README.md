@@ -19,6 +19,7 @@
 |---|---|---|---|
 | 1 | [The Unsupervised Learning Toolkit](https://youtu.be/fNh8WKElJpU) | Explainer | 6:55 |
 | 2 | [Clustering Algorithms Explained](https://youtu.be/4g2nwCHgR1A) | Explainer | 11:15 |
+| 3 | [Finding Customer Groups Without Labels (lab walkthrough)](https://youtu.be/8O3KSImIT3I) | Lab Walkthrough | 4:23 |
 
 ## Hands-on lab
 
