@@ -22,6 +22,7 @@
 | 2 | [Supervised ML Toolkit](https://youtu.be/6bA5q103pwU) | Explainer | 8:42 |
 | 3 | [The ML Toolkit, Explained](https://youtu.be/3zEghngrVpk) | Explainer | 9:58 |
 | 4 | [Supervised Learning Algorithms: Live Class](https://youtu.be/kWGx1UFLWYg) | Class Recording | 1:17:46 |
+| 5 | [Six Classifiers, One Churn Problem (lab walkthrough)](https://youtu.be/8YGORPOnwok) | Lab Walkthrough | 4:06 |
 
 ## Hands-on lab
 
