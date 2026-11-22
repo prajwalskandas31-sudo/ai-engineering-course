@@ -1,6 +1,6 @@
 # Module 2: Python Programming for AI
 
-← [Module 1](../module-01-intro-to-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) · Next: [Module 3](../module-03-math-for-ai)
+← [Module 1](../module-01-intro-to-ai) · [Course home](../README.md) · 📒 [Notes on Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) · ▶️ [Module 2 playlist](https://www.youtube.com/playlist?list=PLZyH9F4Xuaxg) · Next: [Module 3](../module-03-math-for-ai)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prajwalskandas31-sudo/ai-engineering-course/blob/main/module-02-python-for-ai/Module_2_Lab.ipynb) **Run this module's lab in your browser** with Google Colab: no installs needed. Notebook: [Module_2_Lab.ipynb](Module_2_Lab.ipynb) · 📄 Step-by-step [code walkthrough with real outputs (PDF)](Module_2_Code_Walkthrough.pdf)
 
@@ -17,9 +17,10 @@
 
 | # | Video | Type | Length |
 |---|---|---|---|
-| 1 | [NumPy, Matplotlib, Seaborn and Pandas (lab walkthrough)](https://youtu.be/SdVAD0FXuc0) | Lab Walkthrough | 5:37 |
+| 1 | [Python for AI: The Essentials](https://youtu.be/VUT481laKFg) | Explainer | 6:14 |
+| 2 | [NumPy, Matplotlib, Seaborn and Pandas (lab walkthrough)](https://youtu.be/SdVAD0FXuc0) | Lab Walkthrough | 5:37 |
 
-More videos coming soon. Read the [Notion notes](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) alongside.
+Read the [Notion notes](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) alongside.
 
 ## Hands-on lab
 
