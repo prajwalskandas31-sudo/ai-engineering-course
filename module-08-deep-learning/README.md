@@ -21,6 +21,7 @@
 | 1 | [Deep Learning Anatomy](https://youtu.be/CFeDV1rHRjI) | Explainer | 11:11 |
 | 2 | [The Architecture of Universal Approximation](https://youtu.be/BZVVAqg89G8) | Explainer | 7:47 |
 | 3 | [Deep Learning, Computer Vision & NLP: Live Class (Modules 8–10)](https://youtu.be/pSryVIuYQl8) | Class Recording | 2:21:17 |
+| 4 | [A Neural Network From Scratch, Then in Keras (lab walkthrough)](https://youtu.be/8Kg_Vb9_B-o) | Lab Walkthrough | 6:10 |
 
 ## Hands-on lab
 
