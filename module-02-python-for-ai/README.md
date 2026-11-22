@@ -15,7 +15,11 @@
 
 ## Videos
 
-Coming soon. Until then, read the [Notion notes](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) and run the code below.
+| # | Video | Type | Length |
+|---|---|---|---|
+| 1 | [NumPy, Matplotlib, Seaborn and Pandas (lab walkthrough)](https://youtu.be/SdVAD0FXuc0) | Lab Walkthrough | 5:37 |
+
+More videos coming soon. Read the [Notion notes](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) alongside.
 
 ## Hands-on lab
 
