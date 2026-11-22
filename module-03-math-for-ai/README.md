@@ -14,11 +14,12 @@
 - Derivatives with the power rule
 - Gradient descent: how AI learns from its mistakes
 
-## Video
+## Videos
 
 | # | Video | Type | Length |
 |---|---|---|---|
 | 1 | [The Mathematics of Mistakes](https://youtu.be/Ceo1jMAIVUk) | Explainer | 4:35 |
+| 2 | [The Maths Behind AI, in Python (lab walkthrough)](https://youtu.be/gZUAf8GmgVU) | Lab Walkthrough | 5:26 |
 
 ## Run the worked examples
 
