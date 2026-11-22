@@ -20,6 +20,7 @@
 |---|---|---|---|
 | 1 | [Data Preprocessing Explained](https://youtu.be/OY0-7MTimSs) | Explainer | 7:38 |
 | 2 | [Data Preprocessing in Python](https://youtu.be/Tw5s88F49Ho) | Explainer | 7:22 |
+| 3 | [Cleaning Messy Data for Machine Learning (lab walkthrough)](https://youtu.be/5-h73M0xLa4) | Lab Walkthrough | 4:28 |
 
 ## Hands-on lab
 
