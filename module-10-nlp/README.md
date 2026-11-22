@@ -19,6 +19,7 @@
 |---|---|---|---|
 | 1 | [Demystifying NLP](https://youtu.be/AiFxDvjZdfU) | Explainer | 7:50 |
 | 2 | [Deep Learning, Computer Vision & NLP: Live Class (Modules 8–10)](https://youtu.be/pSryVIuYQl8) | Class Recording | 2:21:17 |
+| 3 | [From Raw Text to a Chatbot (lab walkthrough)](https://youtu.be/HyokrRFsnIA) | Lab Walkthrough | 8:21 |
 
 ## Hands-on lab
 
