@@ -19,6 +19,7 @@
 |---|---|---|---|
 | 1 | [Introduction to AI: The Big Picture](https://youtu.be/BzvCSTW-b_Q) | Explainer | 5:34 |
 | 2 | [AI: From Magic to Mechanics](https://youtu.be/zZ4caPmuI7w) | Explainer | 5:30 |
+| 3 | [Rules vs Learning, and a Tiny Language Model (lab walkthrough)](https://youtu.be/-2_q49Xxyb0) | Lab Walkthrough | 3:41 |
 
 ## Files
 
