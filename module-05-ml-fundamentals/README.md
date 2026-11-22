@@ -19,6 +19,7 @@
 | 1 | [Machine Learning Basics](https://youtu.be/CS7ADiZjSGo) | Explainer | 7:10 |
 | 2 | [How Machines Learn to Make Predictions](https://youtu.be/9-ejhYU7HrU) | Explainer | 8:23 |
 | 3 | [Machine Learning Fundamentals: Live Class](https://youtu.be/TNq3f9QHvx8) | Class Recording | 1:26:47 |
+| 4 | [Underfitting, Overfitting and the Sweet Spot (lab walkthrough)](https://youtu.be/naQZIG0OpoM) | Lab Walkthrough | 3:43 |
 
 ## Hands-on lab
 
