@@ -15,7 +15,7 @@ Each module has three parts that link to each other:
 | # | Module | Videos | Notes | Materials |
 |---|---|---|---|---|
 | 1 | Introduction to Artificial Intelligence | [Playlist](https://www.youtube.com/playlist?list=PLREjlGLKLQ-A) | [Notion](https://chipped-willow-4a2.notion.site/4056f1ed006e817088e6ee1869c7c576) | [module-01-intro-to-ai](module-01-intro-to-ai) |
-| 2 | Python Programming for AI | Coming soon | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) | [module-02-python-for-ai](module-02-python-for-ai) |
+| 2 | Python Programming for AI | [Playlist](https://www.youtube.com/playlist?list=PLZyH9F4Xuaxg) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e810e9bf3eadfd1c09a5a) | [module-02-python-for-ai](module-02-python-for-ai) |
 | 3 | Mathematics for AI | [Playlist](https://www.youtube.com/playlist?list=PLA_tEeKDxyfU) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e814782dddd9efb5bdaeb) | [module-03-math-for-ai](module-03-math-for-ai) |
 | 4 | Data Preprocessing | [Playlist](https://www.youtube.com/playlist?list=PLalpeLmg2joU) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e813891daf5bf13678b93) | [module-04-data-preprocessing](module-04-data-preprocessing) |
 | 5 | Machine Learning Fundamentals | [Playlist](https://www.youtube.com/playlist?list=PLL8oIdsEel2Y) | [Notion](https://chipped-willow-4a2.notion.site/4066f1ed006e811d9770eb5c592b078f) | [module-05-ml-fundamentals](module-05-ml-fundamentals) |
